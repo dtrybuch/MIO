@@ -1,2 +1,2 @@
 # MIO
-Methods of Computational Intelligence which I had at the studies of Applied Computer Science.
+Methods of Computational Intelligence xercises which I had at the third semester of  Applied Computer Science at the University of Science and Technology.
